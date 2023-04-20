@@ -38,3 +38,4 @@ echo "</table>";
 ?>
 
 //chame a função logo apos a um metodo
+// No codigo está pegando a data do dia.
